@@ -1,0 +1,21 @@
+html {
+    background: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table{
+ width: 100%;
+ border: 2px solid;
+ padding: 4px;
+ table-layout: fixed;
+}
+
+tr {
+    text-align: center;
+}
